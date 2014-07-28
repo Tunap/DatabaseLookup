@@ -1,0 +1,2 @@
+﻿#Use following layout
+UID ALIAS EMAIL HASH PASS

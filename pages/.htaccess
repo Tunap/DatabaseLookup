@@ -1,0 +1,2 @@
+AuthName "Restricted"
+AuthUserFile "/home/intelhos/.htpasswds/public_html/pages/passwd"

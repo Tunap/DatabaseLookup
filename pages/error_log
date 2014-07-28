@@ -1,0 +1,4 @@
+[28-Jul-2014 17:21:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelhos/public_html/pages/Verify.php:1) in /home/intelhos/public_html/pages/Verify.php on line 13
+[28-Jul-2014 17:24:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelhos/public_html/pages/home.php:5) in /home/intelhos/public_html/pages/home.php on line 6
+[28-Jul-2014 17:26:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelhos/public_html/pages/Verify.php:1) in /home/intelhos/public_html/pages/Verify.php on line 13
+[28-Jul-2014 17:26:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelhos/public_html/pages/home.php:5) in /home/intelhos/public_html/pages/home.php on line 6
